@@ -25,6 +25,8 @@ A test can be in `unit_testing.cpp`.
 
 ## Run guide
 
+https://raymii.org/s/tutorials/Cpp_project_setup_with_cmake_and_unit_tests.html#toc_0
+
 First make sure you have `conan` installed, by running the command 
 ```
 $ conan
